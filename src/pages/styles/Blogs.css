@@ -1,0 +1,18 @@
+.blogs--box {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFFDF7;
+  gap: 1em;
+  padding: 1em;
+}
+
+.blog {
+  width: 15em;
+  height: 20em;
+  padding: 2em;
+  border: 1px solid #33312D;
+  border-radius: 15px;
+  box-shadow: 3px 2px #33312D;
+}
